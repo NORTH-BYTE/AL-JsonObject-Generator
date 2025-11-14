@@ -1,4 +1,4 @@
-## [0.0.3] - 2025-11-14
+## [0.0.3] - 14-11-2025
 ### Added
 - Added `T: Text` variable and automatic `JsonObject.WriteTo(T);` in generated procedures.
 - Updated extension icon to a new minimalist 128x128 design.
@@ -10,7 +10,7 @@
 
 ---
 
-## [0.0.2] - 2025-11-14
+## [0.0.2] - 14-11-2025
 ### Added
 - Added JSON preview WebView for quick payload inspection.
 - Added support for choosing output mode (full procedure vs. Add-lines only).
@@ -22,7 +22,7 @@
 
 ---
 
-## [0.0.1] - 2025-11-14
+## [0.0.1] - 14-11-2025
 ### Added
 - Initial release.
 - Generate JsonObject.Add mapping from Item, Customer, Vendor.
