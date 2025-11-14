@@ -7,9 +7,9 @@ It can also generate a full AL procedure for you, making integration work signif
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔧 QuickFix triggered by `BuildJson`
+### QuickFix triggered by `BuildJson`
 Write **`BuildJson`** (or `buildjson`) on a new line in any AL file and press **`Ctrl + .`**.
 
 You will be prompted to:
@@ -31,6 +31,5 @@ begin
     JsonObject.Add('No.', Item."No.");
     JsonObject.Add('Description', Item."Description");
     JsonObject.Add('Unit Price', Item."Unit Price");
-
     // ...
 end;
