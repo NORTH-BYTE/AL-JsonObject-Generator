@@ -2,7 +2,7 @@
 ### Added
 - Automatic insertion of missing variables when using **Only JsonObject.Add(...) lines** mode.
 - Intelligent scanning that ensures all required JSON-related elements (variables, Add-lines, WriteTo, etc.) are added when missing.
-- Added `source` support in `mappings.json`, allowing API field names to differ from actual table field names.
+- Added `source` support in mappings, allowing API field names to differ from actual table field names.
 - Updated mapping logic to fully align with `AZ AL Dev Tools` field generation.
 
 ### Changed
